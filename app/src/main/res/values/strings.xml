@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">My Application7</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="zhushi1">蛋炒饭：用鸡蛋、胡萝卜、豌豆、火腿丁炒制，米饭粒粒分明。</string>
+    <string name="zhushi2">扬州炒饭：加入虾仁、鸡蛋、火腿、青豆等多种配料炒制而成。</string>
+    <string name="zhushi3">兰州拉面：手工拉制，配以清汤、牛肉、香菜。</string>
+    <string name="zhushi4">炒面：搭配青椒、胡萝卜丝、肉丝，炒至入味。</string>
+    <string name="zhushi5">猪肉包子：松软面皮包裹多汁猪肉馅，蒸熟后香气四溢。</string>
+    <string name="zhushi6">鸡肉饺子：加入鸡肉和香料制成馅料，皮薄馅多。</string>
+    <string name="zhushi7">糯米鸡：糯米拌入香菇、腊肠，蒸熟后香气扑鼻。</string>
+    <string name="zhushi8">紫米饭团：紫米包裹肉松、咸蛋黄，搭配海苔。</string>
+    <string name="zhushi9">红烧牛肉面：牛肉炖至软烂，搭配鲜面条和浓郁汤底。</string>
+    <string name="zhushi10">锅贴：猪肉馅饺子煎至金黄，外脆里嫩。</string>
+    <string name="zhushi11">糯米烧麦：糯米、腊肠和香菇制成的馅料，用薄皮包裹。</string>
+    <string name="zhushi12">西红柿鸡蛋面：面条搭配西红柿鸡蛋汤，酸甜可口。</string>
+
+    <string name="malatang1">香辣毛肚：毛肚涮煮后裹上麻辣汤底，脆爽可口。</string>
+    <string name="malatang2">麻辣牛肉：腌制牛肉涮煮后入味，鲜香嫩滑。</string>
+    <string name="malatang3">宽粉麻辣烫：宽粉涮煮后吸满汤汁，弹牙入味。</string>
+    <string name="malatang4">酸辣金针菇：金针菇在麻辣汤底中涮煮，酸辣开胃。</string>
+    <string name="malatang5">麻辣鸭血：鸭血煮透，吸满麻辣汤汁，滑嫩细腻。</string>
+    <string name="malatang6">鱼豆腐麻辣烫：鱼豆腐煮熟，口感鲜香弹嫩。</string>
+    <string name="malatang7">麻辣香肠：涮煮后的香肠吸满麻辣汤汁，香辣入味。</string>
+    <string name="malatang8">麻辣蔬菜拼盘：多种蔬菜组合，涮煮后爽口多汁。</string>
+    <string name="malatang9">麻辣土豆片：土豆片煮熟后吸满麻辣汤底，绵软香糯。</string>
+    <string name="malatang10">麻辣鸡翅：鸡翅煮至熟透，裹上浓郁麻辣汤汁。</string>
+    <string name="malatang11">麻辣丸子拼盘：鱼丸、肉丸等煮后吸满麻辣汤汁，Q弹可口。</string>
+    <string name="malatang12">麻辣豆腐：豆腐吸满麻辣汤汁，嫩滑入味。</string>
+
+    <string name="shaokao1">烤鸡翅：鸡翅腌制后烤至金黄，外焦里嫩。</string>
+    <string name="shaokao2">烤羊肉串：羊肉块穿成串，撒上孜然和辣椒粉。</string>
+    <string name="shaokao3">烤茄子：茄子切半，刷上蒜蓉酱，烤至入味。</string>
+    <string name="shaokao4">烤韭菜：韭菜刷油后烤制，撒上烧烤调料。</string>
+    <string name="shaokao5">烤猪蹄：猪蹄炙烤至表面焦脆，肉质Q弹。</string>
+    <string name="shaokao6">烤鲈鱼：鲈鱼整条烤制，刷上特制酱料。</string>
+    <string name="shaokao7">烤豆腐：豆腐块烤至表皮金黄，撒上辣椒粉。</string>
+    <string name="shaokao8">烤玉米：玉米刷油烤制，外焦内甜。</string>
+    <string name="shaokao9">烤金针菇：金针菇用锡纸包裹烤制，加入辣酱。</string>
+    <string name="shaokao10">烤秋刀鱼：秋刀鱼撒盐烤至焦香，鱼肉鲜嫩。</string>
+    <string name="shaokao11">烤蘑菇：蘑菇刷上蒜蓉酱，烤至浓香四溢。</string>
+    <string name="shaokao12">烤培根卷：培根卷裹金针菇或蔬菜，烤至焦香。</string>
+
+
+
+    <string name="qingzhen1">清真手抓饭：羊肉、胡萝卜、葡萄干与米饭同煮。</string>
+    <string name="qingzhen2">清炖羊肉汤：羊肉炖至软烂，配以清汤。</string>
+    <string name="qingzhen3">黄焖牛肉：牛肉与土豆同炖，酱香浓郁。</string>
+    <string name="qingzhen4">孜然羊肉：羊肉片与洋葱、孜然炒制，香气扑鼻。</string>
+    <string name="qingzhen5">椒盐羊排：羊排炸至金黄，搭配椒盐调料。</string>
+    <string name="qingzhen6">羊肉串：羊肉穿串后烤制，撒上孜然粉。</string>
+    <string name="qingzhen7">清炒芦笋：芦笋与蒜蓉炒制，清香爽口。</string>
+    <string name="qingzhen8">红烧牛腩：牛腩炖至软烂，酱香浓厚。</string>
+    <string name="qingzhen9">手抓羊肉：羊肉煮熟后沾盐食用，原汁原味。</string>
+    <string name="qingzhen10">香煎牛排：牛排煎至表面微焦，锁住肉汁。</string>
+    <string name="qingzhen11">葱爆羊肉：羊肉片与大葱爆炒，香气四溢。</string>
+    <string name="qingzhen12">清炒小白菜：小白菜用蒜蓉炒制，味道清新。</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
