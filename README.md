@@ -18,7 +18,7 @@
 
 ![UI预览 1](演示1.png)
 ![UI预览 2](演示2.png)
-*(注：图片文件名包含空格，已使用 %20 进行 URL 编码以确保正常显示)*
+
 
 ## 📁 核心文件说明
 * `app/src/main/res/layout/activity_main.xml`: APP 主界面的 UI 布局源代码。
